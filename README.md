@@ -1,8 +1,8 @@
 - 👋 Pronouns: She/Her
 - 👀 Fun fact: I'm a Backend Engineer, Alumni at FrontEnd Foxes & ADA Software Engineering Program.
 - 🌱 Javascript, NodeJS, TypeScript, NestJS.
-- 💞️ I’m looking for help with open source projects, internships,and entry-level opportunities.
-- Job Interest: Software Engineer,Backend Engineer(Intern or Junior Level)
+- 💞️ I’m looking for help with open source projects and opportunities.
+- Job Interest: Software Engineer,Backend Engineer
 - 📫 You can contact me on my email nickijuliet8@gmail.com...
 
 <!---
